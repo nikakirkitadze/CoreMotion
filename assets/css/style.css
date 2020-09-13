@@ -13177,8 +13177,8 @@ a:hover {
 	animation: spinner .4s linear infinite;
 	opacity: 1;
 	border: solid 2px transparent;
-	border-top-color: #1fb8b2;
-	border-left-color: #1fb8b2;
+	border-top-color: #f0a500;
+	border-left-color: #f0a500;
 	border-radius: 100%
 }
 
